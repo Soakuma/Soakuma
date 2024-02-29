@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">🛠 Tools </h3>
+<h3 align="left">📧 Tools </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
