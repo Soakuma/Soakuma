@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     </div>
     <!-- Tools -->
     <p><strong>Tools</strong></p>
-    <div>
+    </div>
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 </div><br>
 </div>
