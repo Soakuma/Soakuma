@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soakuma&layout=compact)
 
 ## Activity
-- Team Koa Sub programmer (2022/12/30~)
+- Sub programmer in Team Koa (2022/12/30~)
