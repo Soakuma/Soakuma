@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">📚 Online Judge 📚</h3>
+<h3 align="left">✏️ Online Judge ✏️</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp
