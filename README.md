@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">Just...Can do </h3>
+<h3 align="left">🥫 Just...Can do </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Main Content
-<h3 align="left">🛠 content </h3>
+<h3 align="left">📚 content </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Minecraft Mod-3C8527.svg?style=for-the-badge&logo=minecraft&logoColor=white" />&nbsp
 </div>
