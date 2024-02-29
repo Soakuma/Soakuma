@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 ## Stets
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soakuma&show_icons=true&theme=monokai)
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soakuma&layout=compact)
