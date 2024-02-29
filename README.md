@@ -24,11 +24,20 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">✏️ Online Judge ✏️</h3>
+<h3 align="left">✏️ Online Judge </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="left">🛠 Tools </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 
 </div><br>
