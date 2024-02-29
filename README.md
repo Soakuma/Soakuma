@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔨 Once I've used 🔨
+## 🔨 I use 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- develope -->
     <p><strong>develope</strong></p>
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
     </div>
 </div><br>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soakuma&show_icons=true&theme=monokai)
