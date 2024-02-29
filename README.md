@@ -22,6 +22,13 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     </div>
+    <!-- Online Judge -->
+    <p><strong>Online Judge</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+    </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
