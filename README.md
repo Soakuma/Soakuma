@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Contact
+<h3 align="left">🛠 Email </h3>
 <div align="left">
   <a href="mail: ggum820@gmail.com">
     <img
