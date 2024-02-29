@@ -33,6 +33,14 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3 align="left">Just...Can do </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C#-A8B9CC.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp
+</div>
+
+<br>
+
 <h3 align="left">🛠 Tools </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
