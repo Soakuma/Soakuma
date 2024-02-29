@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 
 ## Activity
 <div align="left">
-  -Team Koa Sub programmer
+  - Team Koa Sub programmer (2022/12/30~)
   </a>
 </div>
