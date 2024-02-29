@@ -1,4 +1,4 @@
-## 👋 welcome to Soakuma's github 👋 \n
+## 👋 welcome to Soakuma's github 👋
 
 <!--
 **Soakuma/Soakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
