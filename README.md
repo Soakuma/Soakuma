@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 
 ## Activity
 <div align="left">
-  * Team Koa Sub programmer
+  -Team Koa Sub programmer
   </a>
 </div>
