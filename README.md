@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soakuma&layout=compact)
 
 ## Activity
-- Sub programmer in Team Koa (2022/12/30~)
+- 모드 개발팀 팀 코아 서브 프로그래머 (2022/12/30~)
