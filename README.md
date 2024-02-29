@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔨 I use 🔨
+## 🔨 Use 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- develope -->
     <p><strong>develope</strong></p>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-        <img src="https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=C++&logoColor=white"> 
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> 
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
