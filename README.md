@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=replit&logoColor=white" />&nbsp
 </div>
 
 </div><br>
