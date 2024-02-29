@@ -51,6 +51,15 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
+## Main Content
+<h3 align="left">🛠 content </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Minecraft Mod-3C8527.svg?style=for-the-badge&logo=minecraft&logoColor=white" />&nbsp
+</div>
+
+</div><br>
+</div>
+
 ## Contact
 <h3 align="left">📧 Email </h3>
 <div align="left">
