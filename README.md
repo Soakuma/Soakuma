@@ -1,4 +1,4 @@
-## 👋 welcome to Soakuma's github 👋
+## 👋 Welcome to Soakuma's github 👋
 
 <!--
 **Soakuma/Soakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔨 Use
+## Use
 <h3 align="left">🛠 Develope </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
