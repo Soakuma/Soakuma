@@ -43,6 +43,14 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
+## Contact
+<div align="left">
+  <a href="mail: ggum820@gmail.com">
+    <img
+      src="https://img.shields.io/badge/ggum820@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 ## Stets
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soakuma&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soakuma&layout=compact)
