@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Use
-<h3 align="left">🛠 Develope </h3>
+<h3 align="left">🛠 Developement </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -72,6 +72,9 @@ Here are some ideas to get you started:
 ## Stets
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soakuma&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soakuma&layout=compact)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={pinne})](https://solved.ac/{pinne})
 
 ## Activity
 - 모드 개발팀 팀 코아 서브 프로그래머 (2022/12/30~)
